@@ -1,0 +1,5 @@
+cffi==1.15.1
+cryptography==39.0.2
+glob2==0.7
+pyAesCrypt==6.0.0
+pycparser==2.21
